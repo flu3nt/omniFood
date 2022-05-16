@@ -80,10 +80,6 @@ body {
   overflow-x: hidden;
 }
 
-/* main {
-  padding-bottom: 9.6rem;
-} */
-
 /* *** Helper classes */
 
 .margin-right-sm {
@@ -208,7 +204,7 @@ strong {
   background-color: #fdf2e9;
 
   /* border: 3px solid white; */
-  box-shadow: inset 0 0 0 3px #fff; /* ¡ NOTE */
+  box-shadow: inset 0 0 0 3px #fff;
 }
 .btn--form {
   background-color: #45260a;
